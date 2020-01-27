@@ -1,5 +1,7 @@
 # Wanderspeak: Journey
 
+![CI](https://github.com/wanderspeak/journey/workflows/CI/badge.svg)
+
 This typescript library provides the core API for the wanderspeak decentralized social network. 
 
 ## Beginning a journey
